@@ -1,2 +1,2 @@
 # UltimateMoggers
-Creating a roleplay game with a naming convention of the mugging meme
+Creating a roleplay game with a naming convention of the mogging meme
