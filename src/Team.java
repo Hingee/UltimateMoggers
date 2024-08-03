@@ -1,13 +1,12 @@
 package src;
-public class Card {
+
+public class Team {
     private String name;
     private String desc;
-    private Profession prof;
 
-    public Card(String n, String d, Profession p) {
+    public Team(String n, String d) {
         name = n;
         desc = d;
-        prof = p;
     }
 
     public String getName() {
@@ -16,9 +15,5 @@ public class Card {
 
     public String getDesc() {
         return desc;
-    }
-
-    public Profession getProf() {
-        return prof;
     }
 }

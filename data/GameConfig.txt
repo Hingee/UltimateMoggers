@@ -1,0 +1,9 @@
+Players: 6
+   Hingee
+   Matt
+   Gabby
+   Sylvie
+   Gab
+   Dani
+Wolves: 2
+Villagers: 4
