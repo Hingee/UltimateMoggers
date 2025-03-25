@@ -1,4 +1,4 @@
-package src;
+package MCP_Server.src;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;

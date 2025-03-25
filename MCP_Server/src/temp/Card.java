@@ -1,4 +1,4 @@
-package src;
+package MCP_Server.src;
 public class Card {
     private String name;
     private String desc;
